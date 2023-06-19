@@ -28,7 +28,7 @@ alll movies and tv series TMDB API fetch using axios
 
 
 ## Live Deployment
-https://movieslite.netlify.app/
+https://moviestream2.netlify.app/
 
 
 
@@ -48,12 +48,7 @@ Start the Locally
 
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thesunnymallick.github.io/portfolio.github.io/?fbclid=IwAR3npLl9wrY9kaW4Hbi593NdVOH1mk3mc2JVz6lII905XQYGdv9P4WZ3sS4)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thesunnymallick/)
-
-[![linkedin](https://img.shields.io/badge/instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/themallicksunny/)
 
 ## Demo
 
